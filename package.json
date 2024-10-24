@@ -1,0 +1,18 @@
+{
+  "name": "proyek-bookshelf-api",
+  "version": "1.0.0",
+  "description": "Final project course - Backend with Google Cloud Platform ()\u001b[DGCP)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denny Irawan",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "dotenv": "^16.4.5",
+    "nanoid": "^3.3.7"
+  },
+  "devDependencies": {}
+}
